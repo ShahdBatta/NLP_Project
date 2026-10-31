@@ -1,0 +1,9 @@
+{
+  "model": "Logistic Regression",
+  "features": "Bag of Words (1, 2)",
+  "test size": 25000,
+  "accuracy": 0.8883,
+  "precision": 0.8913,
+  "recall": 0.8846,
+  "f1": 0.8879
+}

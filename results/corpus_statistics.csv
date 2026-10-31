@@ -1,0 +1,10 @@
+Statistic,Value
+Training reviews,"25,000"
+Test reviews,"25,000"
+Positive / Negative (train),"12,500 / 12,500"
+Tokens before stop-word removal,"5,922,808"
+Vocabulary before stop-word removal,"73,192"
+Tokens after preprocessing,"3,061,631"
+Vocabulary after preprocessing,"57,447"
+Average tokens per review (before / after),236.9 / 122.5
+Words appearing once (hapax),"22,420 (39.0%)"

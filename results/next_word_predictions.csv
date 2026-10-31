@@ -1,0 +1,9 @@
+prompt,model used,top 5 next words
+this movie is,trigram,"a (0.10), not (0.07), the (0.04), that (0.04), about (0.03)"
+one of the best,trigram,"of (0.08), part (0.04), thing (0.04), movies (0.03), </s> (0.03)"
+the acting was,trigram,"so (0.07), terrible (0.06), not (0.06), good (0.05), horrible (0.04)"
+i would not,trigram,"be (0.16), have (0.15), recommend (0.08), even (0.05), want (0.03)"
+a complete waste of,trigram,"time (0.51), money (0.07), film (0.05), your (0.05), a (0.04)"
+i highly,trigram,"recommend (0.83), doubt (0.04), recomend (0.02), urge (0.02), recommended (0.02)"
+the special effects,trigram,"are (0.16), </s> (0.14), and (0.10), were (0.08), that (0.02)"
+worst movie i have,trigram,"seen (0.17), ever (0.16), to (0.14), not (0.10), never (0.04)"

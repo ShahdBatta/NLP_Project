@@ -1,0 +1,5 @@
+model,features,vocab size,val accuracy,val F1
+Logistic Regression,unigrams + bigrams,167978,0.8912,0.8926
+Naive Bayes,unigrams + bigrams,167978,0.8788,0.877
+Logistic Regression,unigrams,25301,0.8724,0.8731
+Naive Bayes,unigrams,25301,0.858,0.8541

@@ -1,0 +1,13 @@
+{
+  "model": "Logistic Regression",
+  "ngram_range": [
+    1,
+    2
+  ],
+  "min_df": 3,
+  "max_df": 0.95,
+  "C": 0.5,
+  "seed": 42,
+  "train_size": 25000,
+  "test_accuracy": 0.8883
+}
