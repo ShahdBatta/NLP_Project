@@ -29,6 +29,8 @@ Bag of Words, and Logistic Regression / Multinomial Naive Bayes.
    (`stanfordnlp/imdb`) and recreates the same train/test split.
 3. For the live demo, remove the `#` before the `input()` line at the end.
 
+**Presentation:** https://imdp-nlp.netlify.app
+
 ## Reference
 
 Maas, A. L., et al. (2011). Learning Word Vectors for Sentiment Analysis. ACL 2011.
