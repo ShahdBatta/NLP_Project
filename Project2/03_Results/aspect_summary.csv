@@ -1,0 +1,6 @@
+aspect,reviews_mentioning,found_by_embedding,% positive (positive reviews),% positive (negative reviews)
+Acting,633,23%,78%,34%
+Directing,316,25%,77%,26%
+Music,189,12%,75%,38%
+Story,668,22%,62%,20%
+Visuals,291,35%,82%,35%

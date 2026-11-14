@@ -1,0 +1,8 @@
+{
+  "Version": "Project 1 baseline",
+  "Representation": "BoW + Logistic Regression",
+  "Accuracy": 0.8883,
+  "Precision": 0.8913,
+  "Recall": 0.8846,
+  "F1": 0.8879
+}

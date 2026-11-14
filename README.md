@@ -31,6 +31,15 @@ Bag of Words, and Logistic Regression / Multinomial Naive Bayes.
 
 **Presentation:** https://imdp-nlp.netlify.app
 
-## Reference
+## Project 2: Movie Review Intelligence System
 
-Maas, A. L., et al. (2011). Learning Word Vectors for Sentiment Analysis. ACL 2011.
+Phase 2 extends the Project 1 pipeline with modern NLP on the same IMDb data and test split:
+sentence embeddings, semantic search, a pretrained DistilBERT model, an ensemble with the
+Project 1 model, aspect-based sentiment, and a Gradio web app.
+
+| Model | Accuracy | F1 |
+|---|---|---|
+| Project 1: BoW + Logistic Regression | 88.83% | 0.888 |
+| Project 2: Ensemble (DistilBERT + BoW) | **91.48%** | **0.913** |
+
+Everything is in the [`Project2`](Project2) folder. See [`Project2/README.txt`](Project2/README.txt) for how to run it.

@@ -1,0 +1,6 @@
+Text A,Text B,BoW similarity,Embedding similarity
+The film was boring.,I fell asleep halfway through.,0.0,0.34
+The acting was superb.,Brilliant performances from the whole cast.,0.2,0.68
+A complete waste of money.,I want my ticket refund.,0.0,0.21
+The film was boring.,The acting was superb.,0.5,0.47
+The soundtrack was beautiful.,The tax law changed last year.,0.2,0.0

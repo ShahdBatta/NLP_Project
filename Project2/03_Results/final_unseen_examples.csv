@@ -1,0 +1,13 @@
+review,tests,expected,P1,P2,P1 ok,P2 ok,aspects
+An unforgettable masterpiece with breathtaking cinematography and a moving score.,clear positive,Pos,Pos 0.82,Pos 0.91,yes,yes,"Music+, Visuals+"
+Two hours of my life I will never get back.,"idiom, no opinion words",Neg,Pos 0.52,Pos 0.63,no,no,-
+"The first half is slow, but the last thirty minutes are absolutely thrilling.",contrast with but,Pos,Neg 0.22,Pos 0.61,no,yes,Directing-
+"I wanted to love it, but the characters were flat and the dialogue was painful.",contrast with but,Neg,Neg 0.35,Neg 0.17,yes,yes,Story-
+"Not the worst film I've seen this year, but definitely not good either.",double negation,Neg,Neg 0.08,Neg 0.04,yes,yes,-
+The kids loved it and honestly so did I.,no movie words,Pos,Neg 0.43,Pos 0.71,no,yes,-
+"Visually stunning, yet emotionally empty.","mixed, short",Neg,Pos 0.63,Neg 0.44,no,yes,Visuals+
+"Wow, what a great idea to spend 200 million dollars on explosions and forget the story.",sarcasm,Neg,Neg 0.36,Neg 0.19,yes,yes,Story-
+"8/10, would watch again.",written rating,Pos,Pos 0.91,Pos 0.95,yes,yes,-
+"Terrifying, disturbing and full of blood: exactly what a horror fan wants.",horror vocabulary,Pos,Pos 0.54,Pos 0.77,yes,yes,-
+"The acting was wooden and the plot predictable, but I couldn't stop smiling. A guilty pleasure.",so bad it's good,Pos,Neg 0.11,Pos 0.55,no,yes,"Acting-, Story-"
+Meryl Streep carries the whole film; without her it would be unwatchable.,praise inside criticism,Pos,Neg 0.30,Pos 0.65,no,yes,Directing+

@@ -1,0 +1,5 @@
+Version,Representation,Accuracy,Precision,Recall,F1
+Project 1 baseline,BoW + Logistic Regression,0.8883,0.8913,0.8846,0.8879
+Project 2 (a),MiniLM embeddings + Logistic Regression,0.8129,0.8153,0.809,0.8122
+Project 2 (b),"DistilBERT (SST-2), no training",0.8923,0.9151,0.8648,0.8892
+Project 2 (c),Ensemble: 0.5 x DistilBERT + 0.5 x BoW,0.9148,0.9299,0.8971,0.9132
